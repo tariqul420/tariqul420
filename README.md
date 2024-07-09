@@ -1,7 +1,8 @@
+![logo](https://github.com/tariqul420/tariqul420/blob/main/Facebook%20cover.jpg)
 <h1 align="center">Hi 👋, I'm Tariqul Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="Coding" width="400" src="https://i.postimg.cc/j5B1WzB0/devguy3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tariqul420&label=Profile%20views&color=0e75b6&style=flat" alt="tariqul420" /> </p>
 
