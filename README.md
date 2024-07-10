@@ -29,7 +29,7 @@
   <a href="https://www.facebook.com/tariqul.islam.fb" target="_blank">
     <img src="https://img.shields.io/badge/FaceBook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
   </a>
-  <a href="https://tariqul420.github.io/PORTFOLIO-WEBSITE/" target="_blank">
+  <a href="https://tariqul420.github.io/Tariqul-Islam-Portfolio-Website/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
