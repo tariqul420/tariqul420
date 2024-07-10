@@ -1,7 +1,5 @@
 ![logo](https://github.com/tariqul420/tariqul420/blob/main/Facebook%20cover.jpg)
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=tariqul420.tariqul420" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tariqul+Islam!;" />
 </h1>
@@ -11,14 +9,14 @@
 <br/>
 
 <div align="center">
+
+💬 Ask me about **Html Css & Javascript**
  
  🌱 I’m currently learning **Programming Hero**
 
-👨‍💻 All of my projects are available at [https://github.com/tariqul420](https://github.com/tariqul420)
-
-💬 Ask me about **Html & Css**
-
 📫 How to reach me **tariqul.islam.programmer@gmail.com**
+
+👨‍💻 All of my projects are available at [https://github.com/tariqul420](https://github.com/tariqul420)
 
 ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
 
