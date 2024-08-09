@@ -1,4 +1,9 @@
-![logo](https://github.com/tariqul420/tariqul420/blob/main/Facebook%20cover.jpg)
+<!-- Header Section -->
+<p align="center">
+  <a href="https://tariqul.vercel.app/">
+  <img src="https://github.com/tariqul420/portfolio/raw/main/images/Screenshot_1.png" alt="Tariqul Islam - Front-end Developer" width="100%">
+  </a>
+</p>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tariqul+Islam!;" />
@@ -8,20 +13,6 @@
 
 <br/>
 
-<div align="center">
-
-💬 Ask me about **Html Css & Javascript**
- 
- 🌱 I’m currently learning **Programming Hero**
-
-📫 How to reach me **tariqul.islam.programmer@gmail.com**
-
-👨‍💻 All of my projects are available at [https://github.com/tariqul420](https://github.com/tariqul420)
-
-⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
-
- </div>
- 
 <div align="center"> 
   <a href="mailto:tariqul.islam.programmer@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -33,7 +24,18 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-
+</br>
+<div align="center">
+<a href="">
+     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn
+  </a>
+<a href="https://www.instagram.com/tariqul.islam.fb/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram" alt="Instagram">
+  </a>
+ <a href="https://x.com/tariqul420t" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" alt="Twitter">
+  </a>
+</div>
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
