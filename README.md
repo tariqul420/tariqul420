@@ -20,7 +20,7 @@
   <a href="https://www.facebook.com/tariqul.islam.fb" target="_blank">
     <img src="https://img.shields.io/badge/FaceBook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank" />
   </a>
-  <a href="https://tariqul420.github.io/Tariqul-Islam-Portfolio-Website/" target="_blank">
+  <a href="https://tariqul.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=instagram" alt="Instagram">
   </a>
  <a href="https://x.com/tariqul420t" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter" alt="Twitter">
+    <img src="https://img.shields.io/badge/Twitter-orange?style=for-the-badge&logo=x" alt="Twitter">
   </a>
 </div>
  <hr/>
@@ -41,8 +41,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind" /><br><br>
-    <img src="https://skillicons.dev/icons?i=git,nodejs,python,javascript,firebase,mongodb,c,java" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,react,mongodb" /><br><br>
+    <img src="https://skillicons.dev/icons?i=firebase,nodejs,github,git,vscode,figma" /><br>
 </div>
 
 <br/>
