@@ -10,7 +10,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tariqul+Islam!;" />
 </h1>
 
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<!-- Heading -->
+<h3 align="center">
+  A passionate frontend developer from Bangladesh
+</h3>
 
 <br/>
 
@@ -22,7 +25,7 @@
   <a href="mailto:tariqul.developer@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://wakatime.com/@tariqul_420" target="_blank">
+  <a href="https://wakatime.com/@tariqul420" target="_blank">
     <img src="https://img.shields.io/badge/Wakatime-333333?style=for-the-badge&logo=wakatime&logoColor=white" alt="Wakatime" />
   </a>
 </div>
@@ -33,7 +36,7 @@
   <a href="https://www.facebook.com/tariqul.islam.fb" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-333333?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://discord.com/users/tariqul420" target="_blank">
+  <a href="https://discord.com/users/tariqul_420" target="_blank">
     <img src="https://img.shields.io/badge/Discord-333333?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
@@ -64,7 +67,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tariqul420/tariqul420/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tariqul420/tariqul420/refs/heads/output/github-snake.svg" />
   <br/><br/><br/>
 </div>
 
@@ -73,9 +76,7 @@
 <!-- Stats Section -->
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center">
-  <a href="https://wakatime.com/@tariqul_420">
-    <img src="https://wakatime.com/badge/user/27c85e42-a650-4900-abe6-fdef568a986e.svg" alt="Total time coded since Jul 10 2024" />
-  </a>
+  <a href="https://wakatime.com/@27c85e42-a650-4900-abe6-fdef568a986e"><img src="https://wakatime.com/badge/user/27c85e42-a650-4900-abe6-fdef568a986e.svg" alt="Total time coded since Jul 10 2024" /></a>
 </div>
 
 <br>
