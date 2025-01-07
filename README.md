@@ -12,12 +12,21 @@
 
 <!-- Heading -->
 <h3 align="center">
-  A passionate frontend developer from Bangladesh
+  A passionate frontend developer from Bangladesh.
 </h3>
 
 <br/>
+<hr/>
 
+<!-- About Me -->
+<h2 align="center">👨‍💻 About Me 👨‍💻</h2>
+<p align="center">Hello! I'm Tariqul Islam, a passionate and dedicated Front-end developer with a knack for creating visually appealing, responsive, and dynamic web applications. With expertise in modern front-end technologies like React, Tailwind CSS, and DaisyUI & others UI components, I strive to deliver seamless user experiences. On the backend, I leverage Node.js, Express.js, JWT, Cors and MongoDB to build robust and scalable applications.</p>
+
+<br>
+<hr/>
 <!-- Contact Section -->
+<h2 align="center">💌 Contact Me 💌</h2>
+
 <div align="center"> 
   <a href="https://www.linkedin.com/in/tariqul420" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
