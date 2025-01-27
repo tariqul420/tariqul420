@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <p align="center">
   <a href="https://tariqul.vercel.app/">
-    <img src="https://github.com/tariqul420/tariqul420/blob/main/tariqul420.png" alt="Tariqul Islam - Front-end Developer" width="100%">
+    <img src="https://github.com/tariqul420/tariqul420/blob/main/github-banner.png" alt="Tariqul Islam - Front-end Developer" width="100%">
   </a>
 </p>
 
@@ -12,12 +12,21 @@
 
 <!-- Heading -->
 <h3 align="center">
-  A passionate frontend developer from Bangladesh
+  A passionate frontend developer from Bangladesh.
 </h3>
 
 <br/>
+<hr/>
 
+<!-- About Me -->
+<h2 align="center">👨‍💻 About Me 👨‍💻</h2>
+<p align="center">Hello! I'm Tariqul Islam, a passionate and dedicated Front-end developer with a knack for creating visually appealing, responsive, and dynamic web applications. With expertise in modern front-end technologies like React, Tailwind CSS, Shadcn/ui, keep React & others UI components, I strive to deliver seamless user experiences. On the backend, I leverage Node.js, Express.js, JWT, Cors and MongoDB to build robust and scalable applications.</p>
+
+<br>
+<hr/>
 <!-- Contact Section -->
+<h2 align="center">💌 Contact Me 💌</h2>
+
 <div align="center"> 
   <a href="https://www.linkedin.com/in/tariqul420" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -55,9 +64,12 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,javascript,react,firebase" alt="Frontend Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,mui,javascript,typescript" alt="Frontend Skills" />
     <br><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,expressjs,github,git,vscode,figma" alt="Backend & Tools" /><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,firebase,nodejs,mongodb,expressjs" alt="Backend & Tools" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=npm,bun,github,git,vscode,figma" alt="Backend & Tools" />
+    <br>
 </div>
 
 <br/>
@@ -85,7 +97,7 @@
     <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=tariqul420&count_private=true&theme=react&border_radius=10" alt="streak stats" />
     <img width=390 src="https://github-readme-stats.vercel.app/api?username=tariqul420&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tariqul420&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tariqul420&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&hide=html,css" alt="top langs" />
 </div>
 
 <br/><br/>
