@@ -24,6 +24,22 @@
 
 <br>
 <hr/>
+
+<!-- Current Activities -->
+<h2 align="center">🔥 Current Activities 🔥</h2>
+<table align="center">
+  <tr>
+    <td>🔍 Exploring Next.js, TypeScript & advanced JavaScript</td>
+    <td>🐹 Working on Kutto (Pet Adoption Management System)</td>
+    <td>🚀 Enhancing ServiceOrbit (service-sharing app)</td>
+  </tr>
+</table>
+
+
+
+<br>
+<hr/>
+
 <!-- Contact Section -->
 <h2 align="center">💌 Contact Me 💌</h2>
 
