@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <p align="center">
   <a href="https://tariqul.vercel.app/">
-    <img src="https://github.com/tariqul420/tariqul420/blob/main/github-banner-2.png" alt="Tariqul Islam - Front-end Developer" width="100%">
+    <img src="https://github.com/tariqul420/tariqul420/blob/main/tariqul420_proile_banner.png" alt="Tariqul Islam - Front-end Developer" width="100%">
   </a>
 </p>
 
@@ -25,26 +25,11 @@
 <br>
 <hr/>
 
-<!-- Current Activities -->
-<h2 align="center">🔥 Current Activities 🔥</h2>
-<table align="center">
-  <tr>
-    <td>🔍 Exploring Next.js, TypeScript & advanced JavaScript</td>
-    <td>🐹 Working on Kutto (Pet Adoption Management System)</td>
-    <td>🚀 Enhancing ServiceOrbit (service-sharing app)</td>
-  </tr>
-</table>
-
-
-
-<br>
-<hr/>
-
 <!-- Contact Section -->
 <h2 align="center">💌 Contact Me 💌</h2>
 
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/tariqul420" target="_blank">
+  <a href="https://www.linkedin.com/in/tariqul-420-t" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:tariqul.developer@gmail.com">
@@ -108,13 +93,31 @@
 </div>
 
 <br>
+<div>
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tariqul420&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tariqul420&theme=react&utcOffset=8)
+
+</div>
 
 <div align="center">
-    <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=tariqul420&count_private=true&theme=react&border_radius=10" alt="streak stats" />
-    <img width=390 src="https://github-readme-stats.vercel.app/api?username=tariqul420&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tariqul420&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&hide=html,css" alt="top langs" />
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=tariqul420&count_private=true&theme=react&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api?username=tariqul420&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&hide_border=true)
+
 </div>
+
+<div align="center">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tariqul420&theme=react" width="100%">
+
+<br>
+
+[![](https://github-readme-activity-graph.vercel.app/graph?username=tariqul420&theme=github-compact)](https://github.com/tariqul420/github-readme-activity-graph)
+
+<div>
 
 <br/><br/>
 
