@@ -11,19 +11,17 @@
 </h1>
 
 <!-- Designation -->
-<h3 align="center">
-  Frontend Developer
-</h3>
+<h2 align="center">
+  <img src="https://img.shields.io/badge/MERN%20Stack-Developer-blue?style=for-the-badge&logo=node.js&logoColor=white" />
+</h2>
 
 <br/>
-<hr/>
 
 <!-- About Me -->
 <h2 align="center">👨‍💻 About Me 👨‍💻</h2>
 <p align="center">Hello! I'm Tariqul Islam, a passionate and dedicated Front-end developer with a knack for creating visually appealing, responsive, and dynamic web applications. With expertise in modern front-end technologies like React, Tailwind CSS, Shadcn/ui, keep React & others UI components, I strive to deliver seamless user experiences. On the backend, I leverage Node.js, Express.js, JWT, Cors and MongoDB to build robust and scalable applications.</p>
 
 <br>
-<hr/>
 
 <!-- Contact Section -->
 <h2 align="center">💌 Contact Me 💌</h2>
@@ -59,8 +57,6 @@
   </a>
 </div>
 
-<hr/>
-
 <!-- Languages & Frameworks -->
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -74,7 +70,6 @@
 </div>
 
 <br/>
-<hr/>
 
 <!-- My Contributions -->
 <div align="center">
@@ -83,8 +78,6 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tariqul420/tariqul420/refs/heads/output/github-snake.svg" />
   <br/><br/><br/>
 </div>
-
-<hr/>
 
 <!-- Stats Section -->
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -96,32 +89,25 @@
 <div>
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tariqul420&theme=react)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tariqul420&theme=react&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tariqul420&theme=react&border_radius=10)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tariqul420&theme=react&utcOffset=8&border_radius=10)
 
 </div>
 
 <div align="center">
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=tariqul420&count_private=true&theme=react&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api?username=tariqul420&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&hide_border=true)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tariqul420&count_private=true&theme=react&hide_border=true&border_radius=10" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tariqul420&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&hide_border=true" height="180"/>
 </div>
 
 <div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tariqul420&theme=react" width="100%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tariqul420&theme=react&border_radius=10" width="100%">
 
 <br>
 
-[![](https://github-readme-activity-graph.vercel.app/graph?username=tariqul420&theme=github-compact)](https://github.com/tariqul420/github-readme-activity-graph)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=tariqul420&theme=react&border_radius=10&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 <div>
-
-<br/><br/>
-
-<hr/>
 
 <!-- Thanks Text -->
 <h1 align="center">
