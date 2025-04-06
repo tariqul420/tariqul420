@@ -12,7 +12,7 @@
 
 <!-- Designation -->
 <h2 align="center">
-  <img src="https://img.shields.io/badge/MERN%20Stack-Developer-blue?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MERN%20Stack-Developer-333333?style=for-the-badge&logo=node.js&logoColor=white" />
 </h2>
 
 <br/>
@@ -27,7 +27,7 @@
 <h2 align="center">💌 Contact Me 💌</h2>
 
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/tariqul-420-t" target="_blank">
+  <a href="https://www.linkedin.com/in/tariqul-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:tariqul.developer@gmail.com">
