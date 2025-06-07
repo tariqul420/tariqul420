@@ -12,7 +12,7 @@
 
 <!-- Designation -->
 <h2 align="center">
-  <img src="https://img.shields.io/badge/MERN%20Stack-Developer-333333?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-333333?style=for-the-badge&logo=node.js&logoColor=white" />
 </h2>
 
 <br/>
