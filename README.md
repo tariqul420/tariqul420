@@ -1,5 +1,3 @@
-# Tariqul Islam | Full Stack Developer
-
 <!-- Header Section -->
 <p align="center">
   <a href="https://tariqul.vercel.app/">
@@ -81,7 +79,7 @@
   <br/><br/>
 
   <!-- Frameworks and Backend Tools -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,firebase,postgres" alt="Frameworks & Backend" />
+  <img src="https://skillicons.dev/icons?i=react,redux,nextjs,nodejs,express,mongodb,firebase,postgres" alt="Frameworks & Backend" />
   <br/><br/>
 
   <!-- Development Tools -->
