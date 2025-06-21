@@ -19,7 +19,18 @@
 
 <!-- About Me -->
 <h2 align="center">👨‍💻 About Me 👨‍💻</h2>
-<p align="center">Hello! I'm Tariqul Islam, a passionate and dedicated Front-end developer with a knack for creating visually appealing, responsive, and dynamic web applications. With expertise in modern front-end technologies like React, Tailwind CSS, Shadcn/ui, keep React & others UI components, I strive to deliver seamless user experiences. On the backend, I leverage Node.js, Express.js, JWT, Cors and MongoDB to build robust and scalable applications.</p>
+
+<p align="center">
+  Hi, I'm <strong>Tariqul Islam</strong> — a passionate <strong>Front-End Developer</strong> focused on building modern, scalable, and beautifully crafted web applications.
+  <br /><br />
+  I specialize in <strong>React</strong> and <strong>Next.js</strong>, bringing together powerful frameworks like <strong>Tailwind CSS</strong>, <strong>Shadcn/ui</strong>, and modern UI component libraries to deliver sleek, accessible user interfaces.
+  <br /><br />
+  🔐 For authentication and user management, I use <strong>Clerk</strong> to ensure secure and seamless experiences.
+  <br /><br />
+  🛠 On the backend, I work with <strong>Node.js</strong>, <strong>Express.js</strong>, <strong>MongoDB</strong>, <strong>JWT</strong>, and <strong>CORS</strong> to develop reliable and scalable APIs.
+  <br /><br />
+  🚀 Always learning, always building. I love clean code, fast performance, and intuitive UX.
+</p>
 
 <br>
 
@@ -61,12 +72,21 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,mui,javascript,typescript" alt="Frontend Skills" />
-    <br><br>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,firebase,nodejs,mongodb,expressjs" alt="Backend & Tools" />
-    <br><br>
-    <img src="https://skillicons.dev/icons?i=npm,bun,github,git,vscode,figma" alt="Backend & Tools" />
-    <br>
+  <!-- Frontend Skills -->
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,typescript" alt="Frontend Skills" />
+  <br><br>
+
+  <!-- Frameworks and Backend Tools -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,expressjs,mongodb,firebase,postgres" alt="Frameworks & Backend" />
+  <br><br>
+
+  <!-- Development Tools -->
+  <img src="https://skillicons.dev/icons?i=npm,github,git,vscode,figma" alt="Tools" />
+  <br><br>
+
+  <!-- Non-Registered Tools -->
+  <img src="https://img.shields.io/badge/Clerk-Authentication-blueviolet?style=for-the-badge&logo=clerk" alt="Clerk Badge" />
+  <img src="https://img.shields.io/badge/Shadcn/ui-Tailwind_UI-black?style=for-the-badge" alt="Shadcn UI Badge" />
 </div>
 
 <br/>
