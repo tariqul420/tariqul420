@@ -1,7 +1,7 @@
 <!-- Header Section -->
 <p align="center">
   <a href="https://tariqul.vercel.app/">
-    <img src="https://github.com/tariqul420/tariqul420/blob/main/tariqul420_proile_banner.png" alt="Tariqul Islam - Full Stack Developer" width="100%">
+    <img src="https://github.com/tariqul420/tariqul420/blob/main/github-banner.jpg" alt="Tariqul Islam - Full Stack Developer" width="100%">
   </a>
 </p>
 
