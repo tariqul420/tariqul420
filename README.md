@@ -56,7 +56,13 @@
 ---
 
 <p align="center">
-  <a href="https://tariqul.dev">Website</a> ·
-  <a href="https://www.linkedin.com/in/tariqul-dev">LinkedIn</a> ·
-  <a href="mailto:tariqul@tariqul.dev">Email</a>
+  <a href="https://tariqul.dev">
+    <img src="https://img.shields.io/badge/-Website-000000?style=flat&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/tariqul-dev">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tariqul@tariqul.dev">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
