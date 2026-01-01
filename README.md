@@ -46,12 +46,11 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tariqul420/tariqul420/refs/heads/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/tariqul420/tariqul420/refs/heads/output/github-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tariqul420&theme=github_dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=tariqul420&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tariqul420&count_private=true&theme=github_dark&hide_border=true&border_radius=10" alt="GitHub Streak Stats" height="180" />
 </p>
 
 ---
