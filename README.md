@@ -1,68 +1,76 @@
 <h1 align="center">Tariqul Islam</h1>
-<p align="center">Full Stack Developer</p>
+<p align="center"><b>Full Stack Developer</b></p>
 
 <p align="center">
-  I build scalable, secure, and production-ready web applications using modern JavaScript and TypeScript stacks.
+I build scalable, secure, and production-ready web applications  
+focused on modern architecture, performance, and clean developer experience.
 </p>
 
 ---
 
-## Focus
+## Core Focus
 
-- Full-stack application development
-- API design and system architecture
-- Authentication and authorization
-- Database design and optimization
-- Dockerized production deployments
+- Full-stack application development  
+- API design and backend system architecture  
+- Authentication, authorization, and role-based access  
+- Database modeling and performance optimization  
+- Production deployment with Docker and VPS infrastructure  
 
 ---
 
 ## Tech Stack
 
-**Frontend**
-- HTML, CSS, Tailwind CSS  
-- JavaScript, TypeScript  
+### Frontend
 - React, Next.js (App Router)  
-- Redux Toolkit, Shadcn/ui  
+- TypeScript, Tailwind CSS  
+- Shadcn/ui, Modern UI systems  
 
-**Backend**
+### Backend
 - Node.js, Express.js  
 - REST APIs, Socket.IO  
-- JWT, Better Auth  
+- Modular architecture and scalable services  
 
-**Database & ORM**
-- PostgreSQL, MongoDB  
+### Authentication & Security
+- Better Auth, JWT  
+- Session handling, RBAC, secure API design  
+
+### Database & ORM
+- MongoDB, PostgreSQL  
 - Prisma, Mongoose  
+- Cache-aware server actions and optimized queries  
 
-**DevOps**
+### DevOps & Deployment
 - Docker, Docker Compose  
-- Linux VPS, Traefik  
+- Ubuntu VPS hosting  
+- Traefik reverse proxy, production monitoring-ready setup  
 
-**Tools**
-- Git, GitHub  
-- npm, pnpm  
+### Tools & Workflow
+- Git, GitHub, pnpm  
 - VS Code, Figma  
+- Open-source tooling and reusable project systems  
 
 ---
+
+## Open Source & Projects
+
+- **[StackKit](https://stackkit.tariqul.dev)** — CLI toolkit for production-ready Next.js stacks  
+- **[ToolsCube](https://toolscube.app)** — Developer utility ecosystem  
+- **[Natural Sefa](https://naturalsefa.com)** — Large-scale e-commerce platform infrastructure  
+
+---
+
+## Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/tariqul420/tariqul420/refs/heads/output/github-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tariqul420&count_private=true&theme=github_dark&hide_border=true&border_radius=10" alt="GitHub Streak Stats" height="180" />
-</p>
-
 ---
 
+## Connect
+
 <p align="center">
-  <a href="https://tariqul.dev">
-    <img src="https://img.shields.io/badge/-Website-000000?style=flat&logo=google-chrome&logoColor=white" alt="Website" />
-  </a>
-  <a href="https://www.linkedin.com/in/tariqul-dev">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:tariqul@tariqul.dev">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://tariqul.dev">Website</a> •
+  <a href="https://www.linkedin.com/in/tariqul-dev">LinkedIn</a> •
+  <a href="mailto:tariqul@tariqul.dev">Email</a>
 </p>
